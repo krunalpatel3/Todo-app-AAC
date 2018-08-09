@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Todo app</string>
+    <string name="add">Add</string>
+    <string name="task">Task</string>
+    <string name="time1">Time</string>
+    <string name="time">Time</string>
+    <string name="task1">Task</string>
+    <string name="asfs">asfs</string>
+    <string name="ffsa">ffsa</string>
+    <string name="set_time">Set Time</string>
+    <string name="update">Update</string>
+    <string name="name1">Name</string>
+    <string name="set_time1">Set Time</string>
+</resources>
